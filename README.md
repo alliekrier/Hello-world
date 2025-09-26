@@ -17,6 +17,15 @@ My first repository
 ## Files Used  
 
 ## How to run program  
+A few additional markdown options:  
+
+**BOLD** text  
+
+*Italics* text  
+
+~~Strikethrough~~ text  
+
+***Bold and Italics*** text  
 
 ## Additional Information
 
